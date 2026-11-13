@@ -13,7 +13,7 @@
 [![Exports](https://img.shields.io/badge/Exports-PDF%20%7C%20DOCX%20%7C%20PPTX%20%7C%20XLSX-F59E0B)](#-export-and-download)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Python-64748B)](#-installation--setup)
 
-[▶️ Watch the DocPilot AI Tutorial](https://www.youtube.com/watch?v=REPLACE_WITH_DOCPILOT_TUTORIAL_ID) · [🌐 Open the Live Web Application](https://REPLACE_WITH_YOUR_RENDER_SERVICE.onrender.com)
+[▶️ Watch the DocPilot AI Tutorial](https://youtu.be/H4GxjIoe66I) · [🌐 Open the Live Web Application](https://docpilot-ai-1.onrender.com/)
 
 </div>
 
@@ -1156,6 +1156,6 @@ Contributions, suggestions, and bug reports are welcome.
 
 Made for focused learning, document intelligence, and AI-powered productivity.
 
-[▶️ Tutorial Video ](https://www.youtube.com/watch?v=REPLACE_WITH_DOCPILOT_TUTORIAL_ID) · [🌐 Live Application ](https://REPLACE_WITH_YOUR_RENDER_SERVICE.onrender.com)
+[▶️ Tutorial Video ](https://youtu.be/H4GxjIoe66I) · [🌐 Live Application ](https://docpilot-ai-1.onrender.com/)
 
 </div>
